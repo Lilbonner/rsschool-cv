@@ -14,3 +14,17 @@
 * CSS
 * GIT
 * JavaScript
+
+## Code example:
+```jasvscript
+function isLeapYear(year) {
+  return (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0;
+}
+
+var year = 2005;
+if (isLeapYear(year)) {
+  console.log(year + " is leap year.");
+} else {
+  console.log(year + " is not leap year");
+}
+```
