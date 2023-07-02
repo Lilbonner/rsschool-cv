@@ -28,3 +28,14 @@ if (isLeapYear(year)) {
   console.log(year + " is not leap year");
 }
 ```
+
+## Expirience:
+
+## Education: 
+* __University:__ Kyrgyz National University, Applied Informatics.
+* __Courses:__
+     * [code.mu](https://hexlet.io](https://www.code.mu/ru/javascript/book/supreme/)https://www.code.mu/ru/javascript/book/supreme/)
+     * [ogogo academy](https://ogogoacademy.kg/)
+
+ ## English:
+ A2 (I am currently taking an English course)
